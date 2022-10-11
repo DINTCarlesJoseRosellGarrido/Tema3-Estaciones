@@ -32,12 +32,4 @@
             </ScrollViewer>
         </UniformGrid>
     </DockPanel>
-
-    <!--
-    dockpanel
-        textblock top 
-            uniformgrid
-                scrollviewer margin // horizontalscrollbarvisibility Auto
-                    image
-    -->
 </Window>
